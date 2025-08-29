@@ -96,12 +96,7 @@ April 2025
 
 ---
 
-## License
-
-MIT License (recommended, but you can choose your own)
-
----
-
 ## Contributions
 
 Pull requests and suggestions are welcome!
+
