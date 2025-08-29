@@ -82,12 +82,6 @@ LowkeyType.exe
 
 ---
 
-## Example Screenshots
-
-*(Add screenshots here if you wish!)*
-
----
-
 ## Author
 
 Rotimi Dayo  
@@ -99,4 +93,5 @@ April 2025
 ## Contributions
 
 Pull requests and suggestions are welcome!
+
 
